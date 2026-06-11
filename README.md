@@ -1,2 +1,3 @@
 # Database-Management-Systems-Repo
-a repo containing my DBMS assignments
+SID: 88872028
+Name: Ebow Essilfie Quaicoe
